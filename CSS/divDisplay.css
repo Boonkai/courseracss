@@ -1,0 +1,26 @@
+/*Take out the comments around each rule.
+
+Try changing the display property*/
+span{
+    background-color: red;
+    display: block;
+    height: 50px;
+    width: 75px;
+    
+}
+
+p{
+ background-color: yellow;
+ padding: 25px;
+}
+
+    
+div{
+    width: 60%;
+    height: 100px;
+    margin:20px;
+    display: inline-block;
+    background-color: green;
+    overflow:scroll;
+    padding: 25px;
+}

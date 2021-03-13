@@ -1,0 +1,17 @@
+
+ 
+div{
+
+    width: 30%;
+    background: #00ffff;
+    height:400px;
+    display:inline-block;
+    float:left;
+   
+    overflow:scroll;
+  } 
+  
+ a{
+     background: #00ffff;
+     color: black;
+ }
